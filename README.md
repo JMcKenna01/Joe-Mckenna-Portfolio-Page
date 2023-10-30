@@ -14,7 +14,12 @@ This is my personal web portfolio, showcasing my my current work. It includes se
 
 ## Screenshot
 
-
-
 ## Link to the Deployed Application
+
+## Credits
+N/A
+
+## License
+MIT License
+
 
