@@ -16,8 +16,10 @@ This is my personal web portfolio, showcasing my my current work. It includes se
 
 ## Link to the Deployed Application
 
+Project one Livelink- //https://jmckenna01.github.io/Horiseon-Marketing/
+
 ## Credits
-N/A
+N/A 
 
 ## License
 MIT License
