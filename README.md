@@ -12,7 +12,10 @@ This is my personal web portfolio, showcasing my my current work. It includes se
 - `avatar.jpg`: Placeholder image for the avatar.
 - `resume.pdf`: The PDF file containing my resume.
 
-## Screenshot
+## Usage
+
+
+For a preview of desired page-
 [CLICK HERE](https://github.com/JMcKenna01/Joe-Mckenna-Portfolio-Page/blob/6ef3e1f9343a896584dd625d64fb8214a699e7c4/portfolio.page.png)
 
 ## Link to the Deployed Application
