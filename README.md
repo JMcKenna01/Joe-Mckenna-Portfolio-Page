@@ -17,6 +17,8 @@ This is my personal web portfolio, showcasing my my current work. It includes se
 
 ## Link to the Deployed Application
 
+https://jmckenna01.github.io/Joe-Mckenna-Portfolio-Page/
+
 Project one Livelink- https://jmckenna01.github.io/Horiseon-Marketing/
 
 ## Credits
