@@ -1,10 +1,27 @@
-# Joe-Mckenna-Portfolio-Page
-Welcome to my web portfolio, created from scratch in response to this week's challenge! As we delve into this journey of learning and growth, this portfolio will serve as a showcase of my evolving skills and talents. It's a canvas where I'll paint the picture of my progress, featuring web applications that demonstrate my abilities.
+# Joseph McKenna - Portfolio
 
-1. Description
+## Description
 
-2. Code breakdown
+This is my personal web portfolio, showcasing my my current work. It includes sections for "About Me," "My Work," and "Contact Me."
 
-3. Screenshot - ![Screenshot](../path)
+## Code Breakdown
 
-4. Link to the deployed
+- `index.html`: The main HTML file for the portfolio.
+- `styles.css`: The CSS file that styles the portfolio.
+- `project1.png` and `project2.png`: Placeholder images for the work samples.
+- `avatar.jpg`: Placeholder image for the avatar.
+- `resume.pdf`: The PDF file containing my resume.
+
+## Screenshot
+
+## Link to the Deployed Application
+
+Project one Livelink- https://jmckenna01.github.io/Horiseon-Marketing/
+
+## Credits
+N/A 
+
+## License
+MIT License
+
+
