@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my personal web portfolio, showcasing my my current work. It includes sections for "About Me," "My Work," and "Contact Me."
+Welcome to Joseph McKenna's portfolio! This repository contains the code and assets for Joseph McKenna's personal portfolio website, showcasing his work and skills in full-stack development. It includes sections for "About Me," "My Work," and "Contact Me," and Resume."
 
 ## Code Breakdown
 
